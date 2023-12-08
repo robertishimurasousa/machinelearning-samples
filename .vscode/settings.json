@@ -1,0 +1,10 @@
+{
+    "dotnet.preferCSharpExtension": true,
+    "azureFunctions.deploySubpath": "samples/csharp/end-to-end-apps/ScalableMLModelOnAzureFunction/SentimentAnalysisFunctionsApp/bin/Release/net6.0/publish",
+    "azureFunctions.projectLanguage": "C#",
+    "azureFunctions.projectRuntime": "~4",
+    "debug.internalConsoleOptions": "neverOpen",
+    "azureFunctions.projectSubpath": "samples/csharp/end-to-end-apps/ScalableMLModelOnAzureFunction/SentimentAnalysisFunctionsApp",
+    "azureFunctions.preDeployTask": "publish (functions)",
+    "dotnet.defaultSolution": "samples/csharp/All-Samples.sln"
+}
